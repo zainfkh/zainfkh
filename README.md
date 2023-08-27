@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainfkh&label=Profile%20views&color=0e75b6&style=flat" alt="zainfkh" /> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://zainfkh.github.io/Portfolio/](https://zainfkh.github.io/Portfolio/)
 
